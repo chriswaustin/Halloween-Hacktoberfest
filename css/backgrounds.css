@@ -1,0 +1,17 @@
+#page-title {
+    text-align: center;
+    size: 4em;
+    padding: 3%;
+    font-weight: 900;
+}
+.card {
+    transition-timing-function: ease-in-out;
+    transition: .7s;
+}
+.card:hover {
+    transform: scale(1.1);
+}
+
+#exampleModalCenter > .modal-dialog {
+  background-color: rgba(255, 255, 255, 0.5);
+}
